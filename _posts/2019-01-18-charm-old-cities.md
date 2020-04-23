@@ -1,20 +1,87 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities"
-author: jane
+title:  "하마터면 평생 운동을 못할 뻔했다."
+author: komorebi
 categories: [ Jekyll, tutorial ]
 image: assets/images/home.jpg
 tags: [sticky]
 ---
 
-Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler.
 
-#### Early 18th century woodcut of Bucharest
+하마터면 평생 운동을 못할 뻔했다.
 
-The Ottomans appointed Greek administrators (Phanariotes) to run the town from the 18th century. A short-lived revolt initiated by Tudor Vladimirescu in 1821 led to the end of the rule of Constantinople Greeks in Bucharest.[19]
 
-The Old Princely Court (Curtea Veche) was erected by Mircea Ciobanul in the mid-16th century. Under subsequent rulers, Bucharest was established as the summer residence of the royal court. During the years to come, it competed with Târgoviște on the status of capital city after an increase in the importance of southern Muntenia brought about by the demands of the suzerain power – the Ottoman Empire.
+ 30대에 접어들며 몸의 힘이 예전 같지 않음에도 무리하게 근력운동을 하다가 목디스크 증세가 심해졌고, 즐겨하던 운동까지 멀리하게 됐다.
 
-Bucharest finally became the permanent location of the Wallachian court after 1698 (starting with the reign of Constantin Brâncoveanu).
 
-Partly destroyed by natural disasters and rebuilt several times during the following 200 years, and hit by Caragea’s plague in 1813–14, the city was wrested from Ottoman control and occupied at several intervals by the Habsburg Monarchy (1716, 1737, 1789) and Imperial Russia (three times between 1768 and 1806). It was placed under Russian administration between 1828 and the Crimean War, with an interlude during the Bucharest-centred 1848 Wallachian revolution. Later, an Austrian garrison took possession after the Russian departure (remaining in the city until March 1857). On 23 March 1847, a fire consumed about 2,000 buildings, destroying a third of the city.
+
+ 큰 부상을 입기 전까지 나는 근력 운동에 대한 한 가지 고정관념에 사로잡혀 있었다. 바로 가능한 한 무거운 바벨을 들어야 아놀드 슈왈제네거같이 큰 근육을 가질 수 있고, 가벼운 바벨로 운동을 하면 아무리 힘을 들여봐야 이소룡처럼 근육을 작게 쪼개는 것(데피니션)만 가능하다고 오해한 것이다.
+
+
+
+
+photo by Damir Spanic on Unsplash
+
+
+ 당연히 벌크업을 목표로 하던 나는 헬스장에 갈 때마다 무거운 바벨만을 고집스럽게 들어 올렸지만 몸은 어느 순간 이를 감당하지 못하고 힘겨워했다.
+ 
+ 최근에 서울대 재활의학과 정선근 교수님의 <백년운동>이라는 책을 보며 이 고정관념을 깰 수 있었다. 책에서는 흥미로운 연구 결과 하나를 소개했는데 더 이상 바벨을 들 수 없는 반복 불능(repetition failure) 상태에만 도달한다면 바벨의 중량 차이는 근육량 증가에 크게 영향을 주지 않는다는 것이다. 즉 보디빌더처럼 크게 근육을 키우는 벌크업을 목표로 할 때에도 자신에게 무리가 되지 않는 적당한 무게를 찾고, 정확한 동작으로 더 이상 반복할 수 없는 상태까지만 도달한다면 근육은 동일하게 성장한다.
+
+ 
+
+
+
+속도와 힘이 지배하는 세상
+: 무거운 무게와 빠른 속도만이 능사가 아니다.
+
+
+
+
+photo by Braden Collum on Unsplash
+
+ 나는 올바른 운동법을 넘어 조직이 개인에게 힘을 행사하는 방식과 리더십의 차이에 대해서도 다시 생각해 볼 수 있었다. 학창 시절부터 끝없이 경쟁을 부추기는 환경에서 우리가 행복할 수 있는 조건은 있는 힘껏 쉬지 않고 전속력으로 질주하는 것이었다. 그래야만 같은 트랙 위에서의 경쟁에서 승리하고, 웃을 수 있었기 때문이다. 하지만 그렇게 힘든 과정을 겪고 1등을 차지한 친구 조차 마냥 행복해 보이지만은 않았다. 그 위치를 유지하기 위해 잠시의 쉴틈도 없이 다시 전속력으로 달려야 했고, 자신이 감당하기 힘든 무게까지도 기꺼이 감내해야 했다.
+
+
+
+ 모두가 불행했던 이 레이스를 우리는 왜 멈추지 못하고 있었을까? 왜 각자의 트랙 위에서 각자에게 맞는 속도로 각자의 근력을 키우는데 집중하지 못했던 것일까.
+
+
+
+
+photo by Tim Gouw on Unsplash
+
+
+ 더 빨리 더 많이를 추종하는 이 고정관념은 일상까지 지배한다. 브런치 작가로 등록됐다는 메일을 받고, 그간 글을 발행하지 못했던 설움이라도 풀듯 일주일에 3~4개씩 글을 토해냈었다. 당시에는 초기라 메인에도 글이 쉽게 걸렸고 글에 대한 반응이 신기해 하루에도 수십 번씩 브런치를 들락날락했다. 최근 쓰는 글들은 초기보다 메인에 걸리는 일이 희박하다. 글의 퀄리티가 낮아졌을 수도 단순히 메인에 안 걸려서일지도 모를 그 불확실성은 조바심으로 어김없이 찾아왔다. 브런치 글쓰기에 지치는 경우는 보통 글에 대한 반응이 없을 때다. 신경을 끄려고 해도 조회수와 반응은 글 쓰는 재미를 반감시키고 있었다.
+
+
+ 회사에서도 우리는 ‘무거운 바벨만이 근육을 크게 성장시킬 수 있다’와 같은 고정관념에 익숙하다. 직책이 높은 사람의 의견만을 정답으로 추종하는 문제 해결 방식, 내실보다는 외형적 성장만을 추구하며 단순한 매출, 카드 실적 등의 정량적 목표만으로 구성원을 압박하는 것이 회사에 모인 우리 모두의 진정한 성장과 행복을 방해하고 있다. 자신에게 맞지 않는 무거운 바벨을 들고 운동을 반복하면 몸에 무리가 가고, 관절을 다치는 것처럼 이런 조직문화와 리더십은 구성원들의 의욕을 꺾고, 낙오시키기까지 한다. 우리에게는 무미건조하게 숫자로 쓰인 KPI보다 일의 의미와 가치를 느낄 수 있는 가슴 뛰는 목표가 먼저 필요했을지 모른다.
+
+ 
+ 조직의 근력을 올바른 방식으로 키우고 싶다면 구성원 스스로 각자의 힘에 맞는 중량을 선택하고, 반복 불능의 상태가 될 때까지 함께 치열하게 고민하는 노력이 필요하다. 이런 조건을 갖췄을 때 직급을 떠나 누구나 자율과 책임을 통해 일하면서 변화와 혁신을 추구하고, 모두가 함께 행복하게 성장하는 문화가 자리 잡을 수 있다고 나는 믿는다.
+ 
+
+자신에게 맞는 적당한 무게로
+반복 불능의 상태까지
+
+ 브런치 작가가 되고 한 달쯤 지났을까. 글을 계속 쓰는 게 맞나라는 생각이 들었다. 늘지 않는 구독자, 백 단위를 못 넘기는 조회수까지 하마터면 또 속도와 무게감에 눌려 주저앉을 뻔했다. 그때의 나에게 힘을 준건 처리형 작가님의 '초보 브런치 작가 생존기 - 구독자 100명 까지'라는 글이었다.
+
+
+
+ 작가님은 좋은 글을 쓰는 작가분들 조차 초기 무반응에 적응하지 못하고 브런치를 떠나는 게 안타깝다고 했다. 이 글을 읽었을 때 나의 브런치 구독자는 50분이었다. 보잘것없는 이 페이지를 구독해준 분들을 위해서라도, 나와의 약속을 위해서라도 다시 힘을 내보기로 했다. 작가가 되면 적고 싶다던 그 글들을 다시 우직하게 써내려갔고, 결국 또 여기까지 왔다.
+
+
+
+ 글쓰기 근력을 키우기 위해 '한결같이, 나답게, 꾸준히'라는 단어들을 다시 떠올려본다.
+
+
+
+
+photo by Natalie Pedigo on Unsplash
+
+
+ 우리는 회사에서도 각자의 역할을 다하고, 조직에서 자리매김하기 위해 여전히 치열하게 노력한다. 하지만 올바로 성장하기 위해 지금 우리가 먼저 챙겨야 할 것 역시 속도보다는 방향이며, 자신에게 꼭 맞는 바벨의 무게를 찾는 것이다.
+
+
+
+ 그렇게 각자에게 맞는 무게와 속도를 존중하고, 손잡고 한 걸음씩 반복 불능의 상태까지 내디딜 때 우리는 비로소 제대로 성장할 수 있을 것이다.
+
