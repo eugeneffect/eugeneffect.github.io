@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "하마터면 평생 운동을 못할 뻔했다."
-author: komorebi
+author: eugeneffect
 categories: [ Jekyll, tutorial ]
 image: assets/images/home.jpg
 tags: [sticky]
