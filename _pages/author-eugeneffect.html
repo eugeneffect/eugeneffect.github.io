@@ -8,16 +8,16 @@ permalink: "/author-eugeneffect.html"
     <div class="col-md-8">        
         <div class="row align-items-center mb-5">
             <div class="col-md-9">
-                <h2 class="font-weight-bold">{{page.title}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ site.authors.eugeneffect.twitter }}">Follow</a></span></h2>
-                <p><a href="{{ site.authors.eugeneffect.site }}">{{ site.authors.eugeneffect.site }}</a></p>
-                <p class="excerpt">{{ site.authors.eugeneffect.bio }}</p>
+                <h2 class="font-weight-bold">{{page.title}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ site.authors.유진에버.twitter }}">Follow</a></span></h2>
+                <p><a href="{{ site.authors.유진에버.site }}">{{ site.authors.유진에버.site }}</a></p>
+                <p class="excerpt">{{ site.authors.유진에버.bio }}</p>
             </div>
             <div class="col-md-3 text-right">
-                <img alt="{{ site.authors.eugeneffect.name }}" src="{{site.baseurl}}/{{ site.authors.eugeneffect.avatar }}" class="rounded-circle" height="100" width="100">
+                <img alt="{{ site.authors.유진에버.name }}" src="{{site.baseurl}}/{{ site.authors.유진에버.avatar }}" class="rounded-circle" height="100" width="100">
             </div>
         </div>
         <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
-            {% assign posts = site.posts | where:"author","eugeneffect" %}
+            {% assign posts = site.posts | where:"author","유진에버" %}
             {% for post in posts %}
             {% include main-loop-card.html %}
             {% endfor %}
